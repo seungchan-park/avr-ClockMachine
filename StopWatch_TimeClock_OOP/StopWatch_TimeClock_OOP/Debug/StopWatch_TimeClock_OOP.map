@@ -1,0 +1,975 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+                              AP/Service/Service_StopWatch.o (__divmodhi4)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+                              D:/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128a/avr51/crtatmega128a.o (exit)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+                              AP/Presenter/Presenter.o (__do_copy_data)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+                              AP/Listener/Listener.o (__do_clear_bss)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+                              AP/Presenter/Presenter.o (__umulhisi3)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+                              AP/Presenter/Presenter.o (sprintf)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(sprintf.o) (vfprintf)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (strnlen_P)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (strnlen)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (fputc)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (__ultoa_invert)
+
+Allocating common symbols
+Common symbol       size              file
+
+timeClockDispState  0x1               AP/Model/Model_TimeClockDispState.o
+btnDispMode         0x6               AP/Listener/Listener.o
+timeModeStateData   0x1               AP/Model/Model_TimeModeState.o
+btnReset            0x6               AP/Listener/Listener.o
+stopWatchStateData  0x1               AP/Model/Model_StopWatchState.o
+lcdControlData      0x1               Driver/LCD/LCD.o
+btnRunStop          0x6               AP/Listener/Listener.o
+btnMode             0x6               AP/Listener/Listener.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 D:/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128a/avr51/crtatmega128a.o
+ .bss           0x00000000        0x0 D:/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128a/avr51/crtatmega128a.o
+ .text          0x00000000        0x0 AP/apMain.o
+ .data          0x00000000        0x0 AP/apMain.o
+ .bss           0x00000000        0x0 AP/apMain.o
+ .text          0x00000000        0x0 AP/Listener/Listener.o
+ .data          0x00000000        0x0 AP/Listener/Listener.o
+ .bss           0x00000000        0x0 AP/Listener/Listener.o
+ .text          0x00000000        0x0 AP/Model/Model_StopWatchState.o
+ .data          0x00000000        0x0 AP/Model/Model_StopWatchState.o
+ .bss           0x00000000        0x0 AP/Model/Model_StopWatchState.o
+ .text          0x00000000        0x0 AP/Model/Model_TimeClockDispState.o
+ .data          0x00000000        0x0 AP/Model/Model_TimeClockDispState.o
+ .bss           0x00000000        0x0 AP/Model/Model_TimeClockDispState.o
+ .text          0x00000000        0x0 AP/Model/Model_TimeModeState.o
+ .data          0x00000000        0x0 AP/Model/Model_TimeModeState.o
+ .bss           0x00000000        0x0 AP/Model/Model_TimeModeState.o
+ .text          0x00000000        0x0 AP/Presenter/Presenter.o
+ .data          0x00000000        0x0 AP/Presenter/Presenter.o
+ .bss           0x00000000        0x0 AP/Presenter/Presenter.o
+ .text          0x00000000        0x0 AP/Service/Service_StopWatch.o
+ .data          0x00000000        0x0 AP/Service/Service_StopWatch.o
+ .bss           0x00000000        0x0 AP/Service/Service_StopWatch.o
+ .text          0x00000000        0x0 AP/Service/Service_TimeClock.o
+ .data          0x00000000        0x0 AP/Service/Service_TimeClock.o
+ .bss           0x00000000        0x0 AP/Service/Service_TimeClock.o
+ .text          0x00000000        0x0 Driver/Button/Button.o
+ .data          0x00000000        0x0 Driver/Button/Button.o
+ .bss           0x00000000        0x0 Driver/Button/Button.o
+ .text          0x00000000        0x0 Driver/FND/FND.o
+ .data          0x00000000        0x0 Driver/FND/FND.o
+ .bss           0x00000000        0x0 Driver/FND/FND.o
+ .text          0x00000000        0x0 Driver/LCD/LCD.o
+ .data          0x00000000        0x0 Driver/LCD/LCD.o
+ .bss           0x00000000        0x0 Driver/LCD/LCD.o
+ .text.LCD_displayClear
+                0x00000000        0x8 Driver/LCD/LCD.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 Periph/GPIO/GPIO.o
+ .data          0x00000000        0x0 Periph/GPIO/GPIO.o
+ .bss           0x00000000        0x0 Periph/GPIO/GPIO.o
+ .text.GPIO_initPort
+                0x00000000       0x12 Periph/GPIO/GPIO.o
+ .text.GPIO_writePort
+                0x00000000        0x6 Periph/GPIO/GPIO.o
+ .text.GPIO_writePin
+                0x00000000       0x34 Periph/GPIO/GPIO.o
+ .text.GPIO_readPort
+                0x00000000        0x6 Periph/GPIO/GPIO.o
+ .text          0x00000000        0x0 Periph/TIM/Timer.o
+ .data          0x00000000        0x0 Periph/TIM/Timer.o
+ .bss           0x00000000        0x0 Periph/TIM/Timer.o
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800100         0x00001000         rw !x
+eeprom           0x00810000         0x00001000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD D:/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128a/avr51/crtatmega128a.o
+LOAD AP/apMain.o
+LOAD AP/Listener/Listener.o
+LOAD AP/Model/Model_StopWatchState.o
+LOAD AP/Model/Model_TimeClockDispState.o
+LOAD AP/Model/Model_TimeModeState.o
+LOAD AP/Presenter/Presenter.o
+LOAD AP/Service/Service_StopWatch.o
+LOAD AP/Service/Service_TimeClock.o
+LOAD Driver/Button/Button.o
+LOAD Driver/FND/FND.o
+LOAD Driver/LCD/LCD.o
+LOAD main.o
+LOAD Periph/GPIO/GPIO.o
+LOAD Periph/TIM/Timer.o
+START GROUP
+LOAD d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a
+END GROUP
+START GROUP
+LOAD d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a
+LOAD d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a
+LOAD d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a
+LOAD D:/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128a/avr51\libatmega128a.a
+END GROUP
+                [0x00000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800100
+                [0x00020000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00001000]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xff00
+                [0x00001000]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1148
+ *(.vectors)
+ .vectors       0x00000000       0x8c D:/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128a/avr51/crtatmega128a.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000008c                . = ALIGN (0x2)
+                0x0000008c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000008c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000008c                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x0000008c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000008c                __ctors_start = .
+ *(.ctors)
+                0x0000008c                __ctors_end = .
+                0x0000008c                __dtors_start = .
+ *(.dtors)
+                0x0000008c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000008c        0x0 D:/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128a/avr51/crtatmega128a.o
+                0x0000008c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000008c        0xc D:/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128a/avr51/crtatmega128a.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000098       0x1a d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+                0x00000098                __do_copy_data
+ .init4         0x000000b2       0x10 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+                0x000000b2                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000c2        0x6 D:/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128a/avr51/crtatmega128a.o
+ *(.init9)
+ *(.text)
+ .text          0x000000c8        0x2 D:/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128a/avr51/crtatmega128a.o
+                0x000000c8                __vector_22
+                0x000000c8                __vector_28
+                0x000000c8                __vector_1
+                0x000000c8                __vector_32
+                0x000000c8                __vector_34
+                0x000000c8                __vector_24
+                0x000000c8                __vector_12
+                0x000000c8                __bad_interrupt
+                0x000000c8                __vector_6
+                0x000000c8                __vector_31
+                0x000000c8                __vector_3
+                0x000000c8                __vector_23
+                0x000000c8                __vector_30
+                0x000000c8                __vector_25
+                0x000000c8                __vector_11
+                0x000000c8                __vector_13
+                0x000000c8                __vector_17
+                0x000000c8                __vector_19
+                0x000000c8                __vector_7
+                0x000000c8                __vector_27
+                0x000000c8                __vector_5
+                0x000000c8                __vector_33
+                0x000000c8                __vector_4
+                0x000000c8                __vector_2
+                0x000000c8                __vector_21
+                0x000000c8                __vector_15
+                0x000000c8                __vector_29
+                0x000000c8                __vector_8
+                0x000000c8                __vector_26
+                0x000000c8                __vector_14
+                0x000000c8                __vector_10
+                0x000000c8                __vector_18
+                0x000000c8                __vector_20
+                0x000000ca                . = ALIGN (0x2)
+ *(.text.*)
+ .text.__vector_16
+                0x000000ca       0x52 AP/apMain.o
+                0x000000ca                __vector_16
+ .text.__vector_9
+                0x0000011c       0x50 AP/apMain.o
+                0x0000011c                __vector_9
+ .text.apMain_init
+                0x0000016c       0x1c AP/apMain.o
+                0x0000016c                apMain_init
+ .text.apMain_excute
+                0x00000188        0x8 AP/apMain.o
+                0x00000188                apMain_excute
+ .text.Listener_init
+                0x00000190       0x42 AP/Listener/Listener.o
+                0x00000190                Listener_init
+ .text.Listener_stopWatchEvent
+                0x000001d2       0x42 AP/Listener/Listener.o
+                0x000001d2                Listener_stopWatchEvent
+ .text.Listener_timeClockEvent
+                0x00000214       0x2c AP/Listener/Listener.o
+                0x00000214                Listener_timeClockEvent
+ .text.Listener_checkEvent
+                0x00000240       0x32 AP/Listener/Listener.o
+                0x00000240                Listener_checkEvent
+ .text.Model_getStopWatchStateData
+                0x00000272        0x6 AP/Model/Model_StopWatchState.o
+                0x00000272                Model_getStopWatchStateData
+ .text.Model_setStopWatchStateData
+                0x00000278        0x6 AP/Model/Model_StopWatchState.o
+                0x00000278                Model_setStopWatchStateData
+ .text.Model_getTimeClockDispStateData
+                0x0000027e        0x6 AP/Model/Model_TimeClockDispState.o
+                0x0000027e                Model_getTimeClockDispStateData
+ .text.Model_setTimeClockDispStateData
+                0x00000284        0x6 AP/Model/Model_TimeClockDispState.o
+                0x00000284                Model_setTimeClockDispStateData
+ .text.Model_getTimeModeStateData
+                0x0000028a        0x6 AP/Model/Model_TimeModeState.o
+                0x0000028a                Model_getTimeModeStateData
+ .text.Model_setTimeModeStateData
+                0x00000290        0x6 AP/Model/Model_TimeModeState.o
+                0x00000290                Model_setTimeModeStateData
+ .text.Presenter_init
+                0x00000296        0x6 AP/Presenter/Presenter.o
+                0x00000296                Presenter_init
+ .text.Presenter_dispStopWatchData
+                0x0000029c      0x152 AP/Presenter/Presenter.o
+                0x0000029c                Presenter_dispStopWatchData
+ .text.Presenter_dispTimeClockData
+                0x000003ee      0x108 AP/Presenter/Presenter.o
+                0x000003ee                Presenter_dispTimeClockData
+ .text.StopWatch_init
+                0x000004f6       0x16 AP/Service/Service_StopWatch.o
+                0x000004f6                StopWatch_init
+ .text.StopWatch_incMilisec
+                0x0000050c       0x98 AP/Service/Service_StopWatch.o
+                0x0000050c                StopWatch_incMilisec
+ .text.StopWatch_run
+                0x000005a4       0x3e AP/Service/Service_StopWatch.o
+                0x000005a4                StopWatch_run
+ .text.TimeClock_init
+                0x000005e2       0x1c AP/Service/Service_TimeClock.o
+                0x000005e2                TimeClock_init
+ .text.TimeClock_incMilisec
+                0x000005fe       0x90 AP/Service/Service_TimeClock.o
+                0x000005fe                TimeClock_incMilisec
+ .text.TimeClock_run
+                0x0000068e       0x1e AP/Service/Service_TimeClock.o
+                0x0000068e                TimeClock_run
+ .text.Button_init
+                0x000006ac       0x1a Driver/Button/Button.o
+                0x000006ac                Button_init
+ .text.Button_getState
+                0x000006c6       0x54 Driver/Button/Button.o
+                0x000006c6                Button_getState
+ .text.FND_init
+                0x0000071a       0x12 Driver/FND/FND.o
+                0x0000071a                FND_init
+ .text.FND_colonOn
+                0x0000072c        0x8 Driver/FND/FND.o
+                0x0000072c                FND_colonOn
+ .text.FND_colonOff
+                0x00000734        0x6 Driver/FND/FND.o
+                0x00000734                FND_colonOff
+ .text.FND_dispNum
+                0x0000073a      0x224 Driver/FND/FND.o
+                0x0000073a                FND_dispNum
+ .text.FND_setFndData
+                0x0000095e        0xa Driver/FND/FND.o
+                0x0000095e                FND_setFndData
+ .text.FND_ISR_Process
+                0x00000968        0xc Driver/FND/FND.o
+                0x00000968                FND_ISR_Process
+ .text.Gpio_init
+                0x00000974        0xc Driver/LCD/LCD.o
+                0x00000974                Gpio_init
+ .text.Gpio_writeControlData
+                0x00000980        0x4 Driver/LCD/LCD.o
+                0x00000980                Gpio_writeControlData
+ .text.LCD_cmdMode
+                0x00000984        0xe Driver/LCD/LCD.o
+                0x00000984                LCD_cmdMode
+ .text.LCD_charMode
+                0x00000992        0xe Driver/LCD/LCD.o
+                0x00000992                LCD_charMode
+ .text.LCD_writeMode
+                0x000009a0        0xe Driver/LCD/LCD.o
+                0x000009a0                LCD_writeMode
+ .text.LCD_enableHigh
+                0x000009ae       0x1a Driver/LCD/LCD.o
+                0x000009ae                LCD_enableHigh
+ .text.LCD_enableLow
+                0x000009c8       0x1a Driver/LCD/LCD.o
+                0x000009c8                LCD_enableLow
+ .text.Gpio_writeData
+                0x000009e2        0x4 Driver/LCD/LCD.o
+                0x000009e2                Gpio_writeData
+ .text.LCD_writeByte
+                0x000009e6        0x4 Driver/LCD/LCD.o
+                0x000009e6                LCD_writeByte
+ .text.LCD_writeCmdData
+                0x000009ea       0x14 Driver/LCD/LCD.o
+                0x000009ea                LCD_writeCmdData
+ .text.LCD_init
+                0x000009fe       0x48 Driver/LCD/LCD.o
+                0x000009fe                LCD_init
+ .text.LCD_writeCharData
+                0x00000a46       0x14 Driver/LCD/LCD.o
+                0x00000a46                LCD_writeCharData
+ .text.LCD_writeString
+                0x00000a5a       0x2a Driver/LCD/LCD.o
+                0x00000a5a                LCD_writeString
+ .text.LCD_gotoXY
+                0x00000a84       0x14 Driver/LCD/LCD.o
+                0x00000a84                LCD_gotoXY
+ .text.LCD_writeStringXY
+                0x00000a98       0x12 Driver/LCD/LCD.o
+                0x00000a98                LCD_writeStringXY
+ .text.main     0x00000aaa        0x6 main.o
+                0x00000aaa                main
+ .text.GPIO_initPin
+                0x00000ab0       0x34 Periph/GPIO/GPIO.o
+                0x00000ab0                GPIO_initPin
+ .text.GPIO_readPin
+                0x00000ae4       0x14 Periph/GPIO/GPIO.o
+                0x00000ae4                GPIO_readPin
+ .text.TIM0_init
+                0x00000af8       0x12 Periph/TIM/Timer.o
+                0x00000af8                TIM0_init
+ .text.TIM2_init
+                0x00000b0a       0x18 Periph/TIM/Timer.o
+                0x00000b0a                TIM2_init
+ .text.libgcc.div
+                0x00000b22       0x26 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+                0x00000b22                _div
+                0x00000b22                __divmodhi4
+ .text.libgcc.mul
+                0x00000b48       0x1e d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_umulhisi3.o)
+                0x00000b48                __umulhisi3
+ .text.libgcc.div
+                0x00000b66       0x28 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+                0x00000b66                __udivmodhi4
+ .text.avr-libc
+                0x00000b8e       0x5c d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+                0x00000b8e                sprintf
+ .text.avr-libc
+                0x00000bea      0x3fa d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+                0x00000bea                vfprintf
+ .text.avr-libc
+                0x00000fe4       0x16 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                0x00000fe4                strnlen_P
+ .text.avr-libc
+                0x00000ffa       0x16 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                0x00000ffa                strnlen
+ .text.avr-libc
+                0x00001010       0x78 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+                0x00001010                fputc
+ .text.avr-libc
+                0x00001088       0xbc d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                0x00001088                __ultoa_invert
+                0x00001144                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001144        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+                0x00001144                _exit
+                0x00001144                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001144        0x4 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001148                _etext = .
+
+.data           0x00800100       0x3c load address 0x00001148
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.prevSec.2003
+                0x00800100        0x1 AP/Presenter/Presenter.o
+ .data.prevSec.1993
+                0x00800101        0x1 AP/Presenter/Presenter.o
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x00800102        0xb Driver/FND/FND.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080010d       0x2e AP/Presenter/Presenter.o
+ *(.gnu.linkonce.r*)
+                0x0080013c                . = ALIGN (0x2)
+ *fill*         0x0080013b        0x1 
+                0x0080013c                _edata = .
+                0x0080013c                PROVIDE (__data_end, .)
+
+.bss            0x0080013c       0x2a
+                0x0080013c                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.hour      0x0080013c        0x1 AP/Service/Service_StopWatch.o
+ .bss.min       0x0080013d        0x1 AP/Service/Service_StopWatch.o
+ .bss.sec       0x0080013e        0x1 AP/Service/Service_StopWatch.o
+ .bss.milisec   0x0080013f        0x2 AP/Service/Service_StopWatch.o
+ .bss.hour      0x00800141        0x1 AP/Service/Service_TimeClock.o
+ .bss.min       0x00800142        0x1 AP/Service/Service_TimeClock.o
+ .bss.sec       0x00800143        0x1 AP/Service/Service_TimeClock.o
+ .bss.milisec   0x00800144        0x2 AP/Service/Service_TimeClock.o
+ .bss.fndDigitState.1748
+                0x00800146        0x1 Driver/FND/FND.o
+ .bss.fndColonFlag
+                0x00800147        0x1 Driver/FND/FND.o
+                0x00800147                fndColonFlag
+ .bss.fndData   0x00800148        0x2 Driver/FND/FND.o
+                0x00800148                fndData
+ *(COMMON)
+ COMMON         0x0080014a       0x18 AP/Listener/Listener.o
+                0x0080014a                btnDispMode
+                0x00800150                btnReset
+                0x00800156                btnRunStop
+                0x0080015c                btnMode
+ COMMON         0x00800162        0x1 AP/Model/Model_StopWatchState.o
+                0x00800162                stopWatchStateData
+ COMMON         0x00800163        0x1 AP/Model/Model_TimeClockDispState.o
+                0x00800163                timeClockDispState
+ COMMON         0x00800164        0x1 AP/Model/Model_TimeModeState.o
+                0x00800164                timeModeStateData
+ COMMON         0x00800165        0x1 Driver/LCD/LCD.o
+                0x00800165                lcdControlData
+                0x00800166                PROVIDE (__bss_end, .)
+                0x00001148                __data_load_start = LOADADDR (.data)
+                0x00001184                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800166        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800166                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5c
+ *(.comment)
+ .comment       0x00000000       0x30 AP/apMain.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 AP/Listener/Listener.o
+ .comment       0x00000030       0x31 AP/Model/Model_StopWatchState.o
+ .comment       0x00000030       0x31 AP/Model/Model_TimeClockDispState.o
+ .comment       0x00000030       0x31 AP/Model/Model_TimeModeState.o
+ .comment       0x00000030       0x31 AP/Presenter/Presenter.o
+ .comment       0x00000030       0x31 AP/Service/Service_StopWatch.o
+ .comment       0x00000030       0x31 AP/Service/Service_TimeClock.o
+ .comment       0x00000030       0x31 Driver/Button/Button.o
+ .comment       0x00000030       0x31 Driver/FND/FND.o
+ .comment       0x00000030       0x31 Driver/LCD/LCD.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 Periph/GPIO/GPIO.o
+ .comment       0x00000030       0x31 Periph/TIM/Timer.o
+ .comment       0x00000030       0x31 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+ .comment       0x00000030       0x2c d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+                                 0x2d (size before relaxing)
+ .comment       0x0000005c       0x31 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 D:/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128a/avr51/crtatmega128a.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x310
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x38 AP/apMain.o
+ .debug_aranges
+                0x00000038       0x38 AP/Listener/Listener.o
+ .debug_aranges
+                0x00000070       0x28 AP/Model/Model_StopWatchState.o
+ .debug_aranges
+                0x00000098       0x28 AP/Model/Model_TimeClockDispState.o
+ .debug_aranges
+                0x000000c0       0x28 AP/Model/Model_TimeModeState.o
+ .debug_aranges
+                0x000000e8       0x30 AP/Presenter/Presenter.o
+ .debug_aranges
+                0x00000118       0x30 AP/Service/Service_StopWatch.o
+ .debug_aranges
+                0x00000148       0x30 AP/Service/Service_TimeClock.o
+ .debug_aranges
+                0x00000178       0x28 Driver/Button/Button.o
+ .debug_aranges
+                0x000001a0       0x48 Driver/FND/FND.o
+ .debug_aranges
+                0x000001e8       0x98 Driver/LCD/LCD.o
+ .debug_aranges
+                0x00000280       0x20 main.o
+ .debug_aranges
+                0x000002a0       0x48 Periph/GPIO/GPIO.o
+ .debug_aranges
+                0x000002e8       0x28 Periph/TIM/Timer.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x2570
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x780 D:/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128a/avr51/crtatmega128a.o
+ .debug_info    0x00000780      0x293 AP/apMain.o
+ .debug_info    0x00000a13      0x4f2 AP/Listener/Listener.o
+ .debug_info    0x00000f05       0xc0 AP/Model/Model_StopWatchState.o
+ .debug_info    0x00000fc5       0xc0 AP/Model/Model_TimeClockDispState.o
+ .debug_info    0x00001085       0xc0 AP/Model/Model_TimeModeState.o
+ .debug_info    0x00001145      0x356 AP/Presenter/Presenter.o
+ .debug_info    0x0000149b      0x1bc AP/Service/Service_StopWatch.o
+ .debug_info    0x00001657      0x15f AP/Service/Service_TimeClock.o
+ .debug_info    0x000017b6      0x2b5 Driver/Button/Button.o
+ .debug_info    0x00001a6b      0x18b Driver/FND/FND.o
+ .debug_info    0x00001bf6      0x623 Driver/LCD/LCD.o
+ .debug_info    0x00002219       0xb5 main.o
+ .debug_info    0x000022ce      0x20b Periph/GPIO/GPIO.o
+ .debug_info    0x000024d9       0x97 Periph/TIM/Timer.o
+
+.debug_abbrev   0x00000000     0x1345
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x718 D:/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128a/avr51/crtatmega128a.o
+ .debug_abbrev  0x00000718       0xcd AP/apMain.o
+ .debug_abbrev  0x000007e5      0x133 AP/Listener/Listener.o
+ .debug_abbrev  0x00000918       0x8b AP/Model/Model_StopWatchState.o
+ .debug_abbrev  0x000009a3       0x8b AP/Model/Model_TimeClockDispState.o
+ .debug_abbrev  0x00000a2e       0x8b AP/Model/Model_TimeModeState.o
+ .debug_abbrev  0x00000ab9      0x119 AP/Presenter/Presenter.o
+ .debug_abbrev  0x00000bd2       0xea AP/Service/Service_StopWatch.o
+ .debug_abbrev  0x00000cbc       0xcb AP/Service/Service_TimeClock.o
+ .debug_abbrev  0x00000d87      0x18d Driver/Button/Button.o
+ .debug_abbrev  0x00000f14       0xf6 Driver/FND/FND.o
+ .debug_abbrev  0x0000100a      0x197 Driver/LCD/LCD.o
+ .debug_abbrev  0x000011a1       0x68 main.o
+ .debug_abbrev  0x00001209       0xed Periph/GPIO/GPIO.o
+ .debug_abbrev  0x000012f6       0x4f Periph/TIM/Timer.o
+
+.debug_line     0x00000000     0x1536
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x16a D:/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128a/avr51/crtatmega128a.o
+ .debug_line    0x0000016a      0x25d AP/apMain.o
+ .debug_line    0x000003c7      0x1f7 AP/Listener/Listener.o
+ .debug_line    0x000005be       0xab AP/Model/Model_StopWatchState.o
+ .debug_line    0x00000669       0xaf AP/Model/Model_TimeClockDispState.o
+ .debug_line    0x00000718       0xaa AP/Model/Model_TimeModeState.o
+ .debug_line    0x000007c2      0x1e6 AP/Presenter/Presenter.o
+ .debug_line    0x000009a8      0x1ac AP/Service/Service_StopWatch.o
+ .debug_line    0x00000b54      0x166 AP/Service/Service_TimeClock.o
+ .debug_line    0x00000cba      0x198 Driver/Button/Button.o
+ .debug_line    0x00000e52      0x178 Driver/FND/FND.o
+ .debug_line    0x00000fca      0x325 Driver/LCD/LCD.o
+ .debug_line    0x000012ef       0x5b main.o
+ .debug_line    0x0000134a      0x130 Periph/GPIO/GPIO.o
+ .debug_line    0x0000147a       0xbc Periph/TIM/Timer.o
+
+.debug_frame    0x00000000      0x5f0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xe4 AP/apMain.o
+ .debug_frame   0x000000e4       0x54 AP/Listener/Listener.o
+ .debug_frame   0x00000138       0x34 AP/Model/Model_StopWatchState.o
+ .debug_frame   0x0000016c       0x34 AP/Model/Model_TimeClockDispState.o
+ .debug_frame   0x000001a0       0x34 AP/Model/Model_TimeModeState.o
+ .debug_frame   0x000001d4       0xac AP/Presenter/Presenter.o
+ .debug_frame   0x00000280       0x4c AP/Service/Service_StopWatch.o
+ .debug_frame   0x000002cc       0x44 AP/Service/Service_TimeClock.o
+ .debug_frame   0x00000310       0x40 Driver/Button/Button.o
+ .debug_frame   0x00000350       0x90 Driver/FND/FND.o
+ .debug_frame   0x000003e0      0x144 Driver/LCD/LCD.o
+ .debug_frame   0x00000524       0x24 main.o
+ .debug_frame   0x00000548       0x74 Periph/GPIO/GPIO.o
+ .debug_frame   0x000005bc       0x34 Periph/TIM/Timer.o
+
+.debug_str      0x00000000      0xafd
+ *(.debug_str)
+ .debug_str     0x00000000      0x27d D:/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega128a/avr51/crtatmega128a.o
+ .debug_str     0x0000027d      0x2af AP/apMain.o
+                                0x2ee (size before relaxing)
+ .debug_str     0x0000052c      0x154 AP/Listener/Listener.o
+                                0x366 (size before relaxing)
+ .debug_str     0x00000680       0x3c AP/Model/Model_StopWatchState.o
+                                0x1dd (size before relaxing)
+ .debug_str     0x000006bc       0x3a AP/Model/Model_TimeClockDispState.o
+                                0x1e9 (size before relaxing)
+ .debug_str     0x000006f6       0x34 AP/Model/Model_TimeModeState.o
+                                0x1d9 (size before relaxing)
+ .debug_str     0x0000072a       0xf0 AP/Presenter/Presenter.o
+                                0x2b1 (size before relaxing)
+ .debug_str     0x0000081a       0x30 AP/Service/Service_StopWatch.o
+                                0x267 (size before relaxing)
+ .debug_str     0x0000084a       0x22 AP/Service/Service_TimeClock.o
+                                0x231 (size before relaxing)
+ .debug_str     0x0000086c       0x95 Driver/Button/Button.o
+                                0x26d (size before relaxing)
+ .debug_str     0x00000901       0x57 Driver/FND/FND.o
+                                0x213 (size before relaxing)
+ .debug_str     0x00000958      0x10e Driver/LCD/LCD.o
+                                0x2e7 (size before relaxing)
+ .debug_str     0x00000a66       0x11 main.o
+                                0x191 (size before relaxing)
+ .debug_str     0x00000a77       0x70 Periph/GPIO/GPIO.o
+                                0x212 (size before relaxing)
+ .debug_str     0x00000ae7       0x16 Periph/TIM/Timer.o
+                                0x193 (size before relaxing)
+
+.debug_loc      0x00000000      0xd8b
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x196 AP/apMain.o
+ .debug_loc     0x00000196       0xae AP/Listener/Listener.o
+ .debug_loc     0x00000244      0x379 AP/Presenter/Presenter.o
+ .debug_loc     0x000005bd       0x66 AP/Service/Service_StopWatch.o
+ .debug_loc     0x00000623       0x13 AP/Service/Service_TimeClock.o
+ .debug_loc     0x00000636      0x1d2 Driver/Button/Button.o
+ .debug_loc     0x00000808       0x97 Driver/FND/FND.o
+ .debug_loc     0x0000089f      0x42c Driver/LCD/LCD.o
+ .debug_loc     0x00000ccb       0xc0 Periph/GPIO/GPIO.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x230
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x28 AP/apMain.o
+ .debug_ranges  0x00000028       0x28 AP/Listener/Listener.o
+ .debug_ranges  0x00000050       0x18 AP/Model/Model_StopWatchState.o
+ .debug_ranges  0x00000068       0x18 AP/Model/Model_TimeClockDispState.o
+ .debug_ranges  0x00000080       0x18 AP/Model/Model_TimeModeState.o
+ .debug_ranges  0x00000098       0x20 AP/Presenter/Presenter.o
+ .debug_ranges  0x000000b8       0x20 AP/Service/Service_StopWatch.o
+ .debug_ranges  0x000000d8       0x20 AP/Service/Service_TimeClock.o
+ .debug_ranges  0x000000f8       0x18 Driver/Button/Button.o
+ .debug_ranges  0x00000110       0x38 Driver/FND/FND.o
+ .debug_ranges  0x00000148       0x88 Driver/LCD/LCD.o
+ .debug_ranges  0x000001d0       0x10 main.o
+ .debug_ranges  0x000001e0       0x38 Periph/GPIO/GPIO.o
+ .debug_ranges  0x00000218       0x18 Periph/TIM/Timer.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(StopWatch_TimeClock_OOP.elf elf32-avr)
+LOAD linker stubs
